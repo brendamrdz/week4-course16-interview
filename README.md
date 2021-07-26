@@ -1,13 +1,13 @@
 # Succeed in job interviews
 ## Why do I need to prepare for the job interview?
-- Every person will be ever unemployed maybe once, maybe more than three times...
+- Every person will ever be unemployed maybe once, maybe more than three times...
 - There are no second chances to create a good first impression.
 ## What is a selection process?
 The selection process refers to the steps involved in choosing people who have the right qualifications to fill a current or future job opening.<br><br>
 <img src="https://github.com/brendamrdz/week4-course16-interview/blob/main/images/selectionprocess.png?raw=true" alt="alt text" width="50%" height="auto"><br><br>
 
 ### Modern Interviews with new ways to select talent.
-- Google Code Jam is an international programming competition organized and administered by Google. The competition is a means to identify the best engineering talent for potential employment at Google.
+- Google Code Jam is an international programming competition organized and managed by  Google. Competition is like a means to identify the best engineering talent for a potential job at  Google.
 - DHL, does a resume screening and puts their candidates to play classic games like Mario Bross, to see how they solve the problems presented to them.
 
 ### Types of interviews you may face.
