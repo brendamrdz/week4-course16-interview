@@ -1,7 +1,7 @@
 # Succeed in job interviews
 ## What is a selection process?
 
-<img src="https://github.com/brendamrdz/week4-course16-interview/blob/main/images/selectionprocess.png?raw=true" alt="alt text" width="40%" height="auto" align="center">
+<img src="https://github.com/brendamrdz/week4-course16-interview/blob/main/images/selectionprocess.png?raw=true" alt="alt text" width="50%" height="auto">
 New ways to select talent and types of interviews you may face.
 Modern Interviews with new ways to select talent.
 - Google Code Jam is an international programming competition organized and administered by Google. The competition is a means to identify the best engineering talent for potential employment at Google.
