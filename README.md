@@ -1,6 +1,9 @@
 # Succeed in job interviews
+## Why do I need to prepare for the job interview?
+- Every person will be ever unemployed maybe once, maybe more than three times...
+- There are no second chances to create a good first impression.
 ## What is a selection process?
-
+The selection process refers to the steps involved in choosing people who have the right qualifications to fill a current or future job opening.
 <img src="https://github.com/brendamrdz/week4-course16-interview/blob/main/images/selectionprocess.png?raw=true" alt="alt text" width="50%" height="auto">
 New ways to select talent and types of interviews you may face.
 Modern Interviews with new ways to select talent.
