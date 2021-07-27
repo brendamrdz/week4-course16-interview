@@ -27,6 +27,21 @@ The selection process refers to the steps involved in choosing people who have t
 - **Skills** allow you to stand out as a professional and demonstrate your specific knowledge. That is, you are good at something without having to practice a lot.
 - **Values**, the universal principles by which a person is governed, the ones you bring from home or family.
 - **Attitude**, it is the behavior or the way of being in a situation, how do we face situations? It can be positive or negative.
-
-<img src="https://github.com/brendamrdz/week4-course16-interview/blob/main/images/competencies.png?raw=true" alt="alt text" width="20%" height="auto">
 <img src="https://github.com/brendamrdz/week4-course16-interview/blob/main/images/iceberg%20model.jpg?raw=true" alt="alt text" width="30%" height="auto">
+
+### Sample question to evaluate INITIATIVE AND AUTONOMY:
+- Tell me an example of a project or idea that you have carried out despite the limitations or oppositions of some co-workers. What is evaluated is the initiative, if there was no support from your colleagues or boss and you focused on solving that problem.
+- Tell me something that nobody asked you to do at the time and that you now regret. Be very careful with this type of questions and talk as much as you can about your experience.Try to put your answer in the positive, even if the recruiter wants you to speak badly.
+- Tell me about the last time you disagreed with a decision made by your boss. Communicate it in a light-hearted way:
+"I never disagreed with my boss because he had more knowledge of the activities, I would propose different ways of doing things and he would tell me that, at another time, for example..."
+Always communicate in a positive way and being honest
+
+## Goals and Objectives
+Goals and objectives are a fundamental part of knowing your professional profile.
+### What are objectives?
+Objectives are short and measurable steps that will help you reach the end.
+- **Example:** you want to be a web developer, that is your goal, but to achieve it you must take some courses on the subject, these are your objectives that will help you achieve your goal.
+
+
+**Note:** the short term plans are the objectives and how you see yourself in five years professionally is the goal.
+
