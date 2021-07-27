@@ -72,5 +72,24 @@ Objectives are short and measurable steps that will help you reach the end.
 - **Cognitive flexibility**  It is the next level of flexibility, it is the ability to generate or use different sets of rules to combine or group things in different ways. 
 - **Emotional intelligence**  Self-awareness and self-regulation are the key words of this ability. You will need them when you have great responsibilities and constant decision-making, developing emotional intelligence will help you reduce stress and manage your emotions in the best way.
 
+## Considerations when answering interview questions; the interviewer's guide is your CV
+### First contact
+- Tone of voice, take care of your tone of voice; do not sound tired or boring. 
+- Time arrangement,  in your currriculum you can add the schedule in which you are available.
+- Interest in the vacancy,  show it with a good and positive attitude.
+- Camera and PC for online interview,  find the right place so that you are more focused on the interview and so the noises or distractions do not interfere.. 
+
+### Face-to-face
+- Be punctual,  make sure you do not arrive too early and do not arrive too late.  
+- Have knowledge of the vacancy and the company, make sure you have knowledge in them since that is what the questions can deal with.
+- Take care of your personal presentation, try to go with comfortable clothes.
+- Take care of your nonverbal language,  it can be one of the factors why you do not go to the following filters.
+
+The interviewer's guide is your CV Verify what information you have in the first part of your CV. Start with that you feel most confident and be careful not to miss dates in schooling, jobs or training. 
+
+## how do you see yourself in 5 years andShort-term plans?
+What are your strengths and weaknesses?
+- **Fortalezas:** ¿Qué te ha distinguido en tu trabajo? De tu experiencia o conocimiento actual, ¿qué es relevante para la vacante?
+- **Debilidades:** ¿Qué te falta en conocimiento o experiencia con respecto a los requisitos de la vacante?
 
 
