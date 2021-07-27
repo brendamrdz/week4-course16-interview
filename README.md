@@ -87,9 +87,82 @@ Objectives are short and measurable steps that will help you reach the end.
 
 The interviewer's guide is your CV Verify what information you have in the first part of your CV. Start with that you feel most confident and be careful not to miss dates in schooling, jobs or training. 
 
-## how do you see yourself in 5 years andShort-term plans?
+## how do you see yourself in 5 years and short-term plans?
 What are your strengths and weaknesses?
 - **Fortalezas:** ¿Qué te ha distinguido en tu trabajo? De tu experiencia o conocimiento actual, ¿qué es relevante para la vacante?
 - **Debilidades:** ¿Qué te falta en conocimiento o experiencia con respecto a los requisitos de la vacante?
 
 
+## Open-ended questions: Who are you? Why should we hire you? 
+
+### Who are you? 
+To answer this question you must focus on what is your professional field, not personal. Example:  
+> I am a man who is dedicated to the new forms of Digital Marketing that aspires to... 
+
+### Why should we hire you? 
+To answer this question you must focus on selling your knowledge and experiences. Example:  
+> I am a candidate who is willing to engage in the activities that are required since I have experience in... and knowledge about...  
+
+>"Take every opportunity to sell yourself like a pro".
+ 
+ 
+**Note:**  The publication is your guide line, you can guide yourself with it and thus know what the interview was about.
+
+## Trap questions and specific questions according to the position or sector. 
+### Trap question: What's the worst thing we can expect from you if we hire you? 
+To answer this question you must focus on answering the truth, but in a positive way. Example:  
+> The truth is, there would be nothing wrong expected of me, I work as a team and I have no problems in it... 
+
+### Trap question: Why shouldn't we hire you? 
+To answer this question you must answer in positive without being upset. Example:  
+> Do not hire me if you think there is a better profile than mine ... 
+**Note:**  The reason why you are asked the trap questions is to know what attitudes you take about them. 
+
+## Specific question: What did you like to play as a child? 
+To answer this question look among your options for an answer that adheres to your profession. Example:  
+> I am an architect who as a child played to build houses, roads, schools ... 
+
+
+**Note**:  The reason why you are asked the specific questions is to know if you have passion in the sector. 
+
+> "Your hobbies  speak  to  your  personality"
+## The first impression as a candidate
+### The first impression as a candidate, your CV.
+#### Online
+- Send it in PDF format and in responsive format.
+- CV_Luis López_Contador
+
+#### In person
+- Printed in color
+- Clean and in a folder
+
+### Your social networks as a first impression (The photo)
+- Linkedln tells us that having a good photo in your profile increases the possibility of visibility in 7. This means that if before 100 people saw your profile a month, by changing your photo and putting a more professional one, you will get 700 people to see it.
+
+- Keep your profile professional
+- Personalize contact requests
+- Stay active or comment favorably
+
+- Do not criticize or comment negatively
+- Do not use it like Facebook or twitter 
+- Do not send spam messages
+
+## What questions should you ask at first contact?
+- What does the selection process look like? 
+- How long does the process take?
+- Details of the activities
+- And everything else... (that which makes you want to leave your current job)
+
+### About employment:
+- **Salary or rank**, it is important that you are aware of these issues.
+- **Benefits**,  sometimes come with life insurance or major expenses.•  
+- **Form of hiring**,  since it can be very different from what it seemed, you can ask for receipts of fees that are like giving invoices to whoever you are working.•  
+- **Growth plan**, there are two ways of growth: 
+  - **Vertical**,  it is by levels and requires skills of administration of services, management, etc.... 
+  - **Horizontal**,  is the specialization in a topic in a more technical way•  
+- **Training**,  it is important that you know if the company will help you in that learning topic.. 
+
+### Closing of the interview:
+- You must ask how this process will continue.
+- Say goodbye with your hand.
+- Show a good attitude and interest to continue.
