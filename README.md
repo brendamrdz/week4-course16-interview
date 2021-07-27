@@ -28,5 +28,5 @@ The selection process refers to the steps involved in choosing people who have t
 - **Values**, the universal principles by which a person is governed, the ones you bring from home or family.
 - **Attitude**, it is the behavior or the way of being in a situation, how do we face situations? It can be positive or negative.
 
-<img src="https://github.com/brendamrdz/week4-course16-interview/blob/main/images/competencies.png?raw=true" alt="alt text" width="30%" height="auto">
+<img src="https://github.com/brendamrdz/week4-course16-interview/blob/main/images/competencies.png?raw=true" alt="alt text" width="20%" height="auto">
 <img src="https://github.com/brendamrdz/week4-course16-interview/blob/main/images/iceberg%20model.jpg?raw=true" alt="alt text" width="30%" height="auto">
