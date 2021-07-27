@@ -22,7 +22,7 @@ The selection process refers to the steps involved in choosing people who have t
 
 ## What are professional competencies?
 
-- **Knowledge is everything you know**; what you learned in school, what you learned on your own. Check them and compare them with the knowledge that is being asked for.
+- **Knowledge** is everything you know; what you learned in school, what you learned on your own. Check them and compare them with the knowledge that is being asked for.
 - **Experience**, what you've learned through practice may be from past work, or something you've done independently. Everything that is related to the vacancy you are applying for.
 - **Skills** allow you to stand out as a professional and demonstrate your specific knowledge. That is, you are good at something without having to practice a lot.
 - **Values**, the universal principles by which a person is governed, the ones you bring from home or family.
