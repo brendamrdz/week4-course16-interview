@@ -8,7 +8,7 @@ The selection process refers to the steps involved in choosing people who have t
 
 ### Modern Interviews with new ways to select talent.
 - Google Code Jam is an international programming competition organized and managed by  Google. Competition is like a means to identify the best engineering talent for a potential job at  Google.
-- DHL, does a resume screening and puts their candidates to play classic games like Mario Bross, to see how they solve the problems presented to them.
+- DHL does a resume screening and puts their candidates to play classic games like Mario Bross, to see how they solve the problems presented to them.
 
 ### Types of interviews you may face.
 - By stage.
